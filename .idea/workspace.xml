@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68a62709-15ef-43fa-9130-f6c6fbb3c4e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddTodo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EditModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppTextBold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/todo/TodoState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/todo/todoContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/todo/todoReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/MainScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/TodoScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Navbar.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="253HPoxDBPRGCYOEK3mYVibDomi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\react-native\test\rn-todo-app\src" />
+      <recent name="C:\project\react-native\test\rn-todo-app\assets" />
+      <recent name="C:\project\react-native\test\rn-todo-app\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\react-native\test\rn-todo-app\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68a62709-15ef-43fa-9130-f6c6fbb3c4e8" name="Changes" comment="" />
+      <created>1644748830821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644748830821</updated>
+      <workItem from="1644748832101" duration="1104000" />
+      <workItem from="1644750979720" duration="1176000" />
+      <workItem from="1644772253205" duration="6000" />
+      <workItem from="1644772278181" duration="696000" />
+      <workItem from="1644778550380" duration="407000" />
+      <workItem from="1644778987776" duration="31381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
